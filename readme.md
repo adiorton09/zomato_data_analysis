@@ -44,7 +44,8 @@ The dataset contains information about restaurants including:
 🛠️ Technologies Used
 - Python
 - Pandas
-- Matplotlib / Seaborn
+- Tableau
+- Power-Bi
 - Jupyter Notebook
 
 📌 How to Run
